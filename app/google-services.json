@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "295219955524",
+    "firebase_url": "https://collegeclubs-32821.firebaseio.com",
+    "project_id": "collegeclubs-32821",
+    "storage_bucket": "collegeclubs-32821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295219955524:android:33d7badd5651ef22",
+        "android_client_info": {
+          "package_name": "com.example.android.collegeclubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295219955524-rpvgbash6hsujcguo1ra6bck8kfgama8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.collegeclubs",
+            "certificate_hash": "31c0d952e5a5a9e38b0c41021309c7be4ed880f5"
+          }
+        },
+        {
+          "client_id": "295219955524-p0m4uksgummbb7vplohhhpq57ojivngp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Lk5fWGqKCdVzqewGHD7hU1V35_tXimI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295219955524-p0m4uksgummbb7vplohhhpq57ojivngp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
